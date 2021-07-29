@@ -1,0 +1,41 @@
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: darkorchid;
+
+}
+
+body {
+    text-align: center;
+    font-family: Glyphs;
+    color: black;
+    background-color: red;
+    background-image: linear-gradient(red, yellow);
+}
+
+img {
+    width: 200px;
+    margin: 25px;
+    height: 200px;
+}
+
+p {
+    font-size: 20px
+}
+
+.links {
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+}
+
+<link href="https://fonts.googleapis.com/css2?family=Courgette&display=swap"rel="stylesheet" >
+#myname{
+    font-family: 'courgette',cursive;
+}
